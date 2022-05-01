@@ -8,6 +8,8 @@ public class Nature {
 		
 		System.out.println("root");
 		
+		System.out.println("fruits");
+		
 	}
 
 }
