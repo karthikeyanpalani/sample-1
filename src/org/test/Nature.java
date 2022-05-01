@@ -8,9 +8,14 @@ public class Nature {
 		
 		System.out.println("root");
 		
-		int a=20;
+		System.out.println("fruits");
 		
-		System.out.println(a);
+        int a=20;
+
+        System.out.println(a);
+		
+
+
 		
 	}
 
