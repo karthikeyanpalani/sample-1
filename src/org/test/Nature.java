@@ -10,6 +10,13 @@ public class Nature {
 		
 		System.out.println("fruits");
 		
+        int a=20;
+
+        System.out.println(a);
+		
+
+
+		
 	}
 
 }
